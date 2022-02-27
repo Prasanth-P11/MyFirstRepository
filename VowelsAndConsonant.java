@@ -1,7 +1,6 @@
-package com.company;
 import java.util.Scanner;
 import java.util.ArrayList;
-public class Main{
+public class VowelsAndConsonant{
     public static void add(String a){
         ArrayList<Integer> d=new ArrayList<>();
         int vowels=0;
