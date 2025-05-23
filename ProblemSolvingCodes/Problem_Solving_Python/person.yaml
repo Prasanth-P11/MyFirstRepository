@@ -1,0 +1,12 @@
+name: John Doe
+age: 30
+occupation: Software Developer
+skills:
+- Python
+- JavaScript
+- YAML
+address:
+  street: 123 Main St
+  city: Anytown
+  state: NY
+  zip: '12345'
